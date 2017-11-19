@@ -61,4 +61,5 @@ typings/
 obj/
 bin/
 Temp/
+Library/
 *.app

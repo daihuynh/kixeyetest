@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{6439B0B6-C827-AC16-CD69-C4C5DF2BB0A7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Messages.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MainScene.cs" Line="138" Column="43" />
+      <File FileName="Assets/Scripts/NetworkManager.cs" Line="85" Column="1" />
+      <File FileName="Assets/Scripts/PlayerCube.cs" Line="82" Column="10" />
+      <File FileName="Assets/Scripts/TimeUtility.cs" Line="17" Column="6" />
+      <File FileName="Assets/Scripts/MainThreadInvoker.cs" Line="27" Column="1" />
+      <File FileName="Assets/Scripts/Messages.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.client PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mac/Projects/KixEyeTest/client/Assets/Scripts/MainScene.cs" relfile="Assets/Scripts/MainScene.cs" line="50" column="62" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
