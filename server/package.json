@@ -1,0 +1,23 @@
+{
+  "name": "kixeyetest",
+  "version": "1.0.0",
+  "description": "Kixeye Senior Mobile Engineer Test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daihuynh/kixeyetest.git"
+  },
+  "dependencies": {
+    "enum": "^2.5.0",
+    "mongodb": "~2.0"
+  },
+  "author": "Dai Huynh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daihuynh/kixeyetest/issues"
+  },
+  "homepage": "https://github.com/daihuynh/kixeyetest#readme"
+}
